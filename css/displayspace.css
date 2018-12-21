@@ -161,3 +161,10 @@ ul {
   cursor: pointer;
   
 }
+.cartemail{
+  width : 80%;
+  background-attachment: fixed;
+  font-style: italic;
+  text-decoration: underline;
+  
+}
